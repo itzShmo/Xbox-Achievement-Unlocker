@@ -1,5 +1,5 @@
 ﻿
-namespace Xbox_Achievement_Unlocker
+namespace shmos
 {
     partial class MainWindow
     {
